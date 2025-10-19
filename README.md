@@ -24,7 +24,7 @@ Code: https://github.com/yairemartinez/nmap_dashboard
 Story: https://yairmartinezcybersecurityportfolio.com/?p=809
 
 **Log Parser + Weather Enricher — Python CLI**  
-A simple log-processing tool that filters critical events, adds context through an API, and exports structured reports.  
+A log-processing tool that filters critical events, adds context through an API, and exports structured reports.  
 Code: https://github.com/yairemartinez/Log-Parser-Weather-Enricher  
 Story: https://yairmartinezcybersecurityportfolio.com/?p=1034
 
@@ -52,4 +52,4 @@ I value simplicity, consistency, and documentation.
 Each repository includes clear instructions, organized folders, and small examples for testing.  
 I aim to make technical work understandable—to show not just what I built, but how it works.
 
-Explorin technology through hands-on projects and real-world applications.
+Exploring technology through hands-on projects and real-world applications.
