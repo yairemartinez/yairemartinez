@@ -3,7 +3,7 @@
 I’m a technology professional who explores where systems, automation, and security meet.  
 I turn curiosity into practical projects that improve performance, reliability, and security across different environments.
 
-My work focuses on creating small but complete solutions—tools that can be built, tested, and documented with clarity.  
+My work focuses on creating small but complete solutions tools that can be built, tested, and documented with clarity.  
 This GitHub is where I share that process. My portfolio provides the stories behind each project.
 
 Portfolio: https://yairmartinezcybersecurityportfolio.com  
@@ -17,6 +17,11 @@ LinkedIn: https://www.linkedin.com/in/yair-martinez-939a17378
 A Python daemon that monitors IDS alerts and automatically applies firewall rules to block malicious traffic.  
 Code: https://github.com/yairemartinez/ngfw-daemon  
 Story: https://yairmartinezcybersecurityportfolio.com/?p=1075
+
+**Active Directory Labs — Windows Server + GPO + Security Hardening + Automation**  
+A hands-on Active Directory lab environment built to mirror real enterprise administration workflows, with phased documentation, validation, and PowerShell automation.  
+Code: https://github.com/yairemartinez/active-directory-labs  
+Story: https://yairmartinezcybersecurityportfolio.com/?p=1278
 
 **Nmap Dashboard — Flask + SQLite + WeasyPrint**  
 A dashboard for analyzing and comparing Nmap results with tagging, risk scoring, and report generation.  
@@ -50,6 +55,6 @@ Windows Server and Active Directory
 
 I value simplicity, consistency, and documentation.  
 Each repository includes clear instructions, organized folders, and small examples for testing.  
-I aim to make technical work understandable—to show not just what I built, but how it works.
+I aim to make technical work understandable to show not just what I built, but how it works.
 
 Exploring technology through hands-on projects and real-world applications.
