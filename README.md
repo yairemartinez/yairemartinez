@@ -1,60 +1,66 @@
 # Yair Martinez
 
-I’m a technology professional who explores where systems, automation, and security meet.  
-I turn curiosity into practical projects that improve performance, reliability, and security across different environments.
+Entry-level IT and systems-focused professional with hands-on experience across Windows, Linux, networking, automation, and security fundamentals. I build small, complete technical projects that emphasize reliability, clarity, and documentation.
 
-My work focuses on creating small but complete solutions tools that can be built, tested, and documented with clarity.  
-This GitHub is where I share that process. My portfolio provides the stories behind each project.
+My work focuses on practical system administration, automation, and security-aware tooling developed through structured labs and self-directed projects. Each repository is designed to be testable, well-documented, and grounded in real-world operational scenarios.
 
-Portfolio: https://yairmartinezcybersecurityportfolio.com  
-LinkedIn: https://www.linkedin.com/in/yair-martinez-939a17378  
+This GitHub highlights selected projects that demonstrate how I approach problem-solving across IT support, systems, and security-adjacent domains. Detailed explanations, design decisions, and lessons learned are documented in my portfolio.
 
----
-
-## Projects
-
-**NGFW Daemon — Suricata-Driven Reactive Firewall**  
-A Python daemon that monitors IDS alerts and automatically applies firewall rules to block malicious traffic.  
-Code: https://github.com/yairemartinez/ngfw-daemon  
-Story: https://yairmartinezcybersecurityportfolio.com/?p=1075
-
-**Active Directory Labs — Windows Server + GPO + Security Hardening + Automation**  
-A hands-on Active Directory lab environment built to mirror real enterprise administration workflows, with phased documentation, validation, and PowerShell automation.  
-Code: https://github.com/yairemartinez/active-directory-labs  
-Story: https://yairmartinezcybersecurityportfolio.com/?p=1278
-
-**Nmap Dashboard — Flask + SQLite + WeasyPrint**  
-A dashboard for analyzing and comparing Nmap results with tagging, risk scoring, and report generation.  
-Code: https://github.com/yairemartinez/nmap_dashboard  
-Story: https://yairmartinezcybersecurityportfolio.com/?p=809
-
-**Log Parser + Weather Enricher — Python CLI**  
-A log-processing tool that filters critical events, adds context through an API, and exports structured reports.  
-Code: https://github.com/yairemartinez/Log-Parser-Weather-Enricher  
-Story: https://yairmartinezcybersecurityportfolio.com/?p=1034
-
-**Linux Bash Audit & Backup Script**  
-A shell script that automates audit and backup routines with smart filtering and contextual logging.  
-Code: https://github.com/yairemartinez/bash-audit-backup-script  
-Story: https://yairmartinezcybersecurityportfolio.com/?p=1051
+**Portfolio:** https://yairmartinezcybersecurityportfolio.com  
+**LinkedIn:** https://www.linkedin.com/in/yair-martinez-939a17378  
 
 ---
 
-## Areas of Focus
+## Featured Projects
 
-Systems and Networking  
-Automation and Scripting (Python, Bash)  
-Security Operations and Monitoring  
-Cloud and Infrastructure (Azure, Linux, Virtualization)  
-Data and Log Analysis  
-Windows Server and Active Directory
+### **Active Directory Enterprise Lab Series**
+Hands-on Windows Server lab environment simulating real-world IT support and systems administration workflows, including identity management, Group Policy, and security hardening.
+- Code: https://github.com/yairemartinez/active-directory-labs  
+- Project Write-Up: https://yairmartinezcybersecurityportfolio.com/?p=1278  
 
 ---
 
-## Approach
+### **Linux Bash Audit & Backup Script**
+Automation-focused shell script for filesystem auditing and backup routines, emphasizing operational safety, logging, and repeatable execution.
+- Code: https://github.com/yairemartinez/bash-audit-backup-script  
+- Project Write-Up: https://yairmartinezcybersecurityportfolio.com/?p=1051  
 
-I value simplicity, consistency, and documentation.  
-Each repository includes clear instructions, organized folders, and small examples for testing.  
-I aim to make technical work understandable to show not just what I built, but how it works.
+---
 
-Exploring technology through hands-on projects and real-world applications.
+### **Nmap Dashboard**
+Python and Flask-based dashboard for organizing and reviewing Nmap scan data in a private lab environment, with asset tracking and historical comparison.
+- Code: https://github.com/yairemartinez/nmap_dashboard  
+- Project Write-Up: https://yairmartinezcybersecurityportfolio.com/?p=809  
+
+---
+
+### **NGFW Daemon (Suricata-Driven Reactive Firewall)**
+Security automation project demonstrating IDS-driven detection and response concepts through log parsing, enrichment, and controlled firewall enforcement.
+- Code: https://github.com/yairemartinez/ngfw-daemon  
+- Project Write-Up: https://yairmartinezcybersecurityportfolio.com/?p=1075  
+
+---
+
+### **Log Parser + Weather Enricher**
+Python CLI utility focused on structured log processing, data enrichment via external APIs, and export of clean, analysis-ready outputs.
+- Code: https://github.com/yairemartinez/Log-Parser-Weather-Enricher  
+- Project Write-Up: https://yairmartinezcybersecurityportfolio.com/?p=1034  
+
+---
+
+## Technical Focus Areas
+
+- IT Support & Systems Administration (Windows, Active Directory, Group Policy)
+- Networking Fundamentals & Troubleshooting
+- Automation & Scripting (Python, Bash, PowerShell)
+- Security Monitoring & Detection Fundamentals
+- Linux Administration & Virtualized Lab Environments
+- Cloud Fundamentals (Azure)
+
+---
+
+## Working Approach
+
+I prioritize simplicity, consistency, and clear documentation. Each project includes structured setup instructions, scoped objectives, and repeatable testing scenarios to make both the technical outcome and the process easy to understand.
+
+The goal is not just to show what was built, but how it works and why design decisions were made.
