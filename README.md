@@ -13,10 +13,32 @@ This GitHub highlights selected projects that demonstrate how I approach problem
 
 ## Featured Projects
 
+### **NGFW Daemon (Suricata-Driven Reactive Firewall)**
+Security automation project demonstrating IDS-driven detection and response concepts through log parsing, enrichment, and controlled firewall enforcement.
+- Code: https://github.com/yairemartinez/ngfw-daemon  
+- Project Write-Up: https://yairmartinezcybersecurityportfolio.com/?p=1075  
+
+---
+
+### **Log Parser + Weather Enricher**
+Python CLI utility focused on structured log processing, data enrichment via external APIs, and export of clean, analysis-ready outputs.
+- Code: https://github.com/yairemartinez/Log-Parser-Weather-Enricher  
+- Project Write-Up: https://yairmartinezcybersecurityportfolio.com/?p=1034  
+
+---
+
 ### **Active Directory Enterprise Lab Series**
 Hands-on Windows Server lab environment simulating real-world IT support and systems administration workflows, including identity management, Group Policy, and security hardening.
 - Code: https://github.com/yairemartinez/active-directory-labs  
 - Project Write-Up: https://yairmartinezcybersecurityportfolio.com/?p=1278  
+
+---
+
+### Ticket-Driven IT Support Simulation Lab
+
+Self-directed ticket queue simulation demonstrating help desk workflows in a Windows Server + Active Directory lab: triage, diagnostics, root cause, resolution, validation, and prevention notes.
+
+- Code: https://github.com/yairemartinez/it-ticket-sim-lab
 
 ---
 
@@ -34,23 +56,11 @@ Python and Flask-based dashboard for organizing and reviewing Nmap scan data in 
 
 ---
 
-### **NGFW Daemon (Suricata-Driven Reactive Firewall)**
-Security automation project demonstrating IDS-driven detection and response concepts through log parsing, enrichment, and controlled firewall enforcement.
-- Code: https://github.com/yairemartinez/ngfw-daemon  
-- Project Write-Up: https://yairmartinezcybersecurityportfolio.com/?p=1075  
-
----
-
-### **Log Parser + Weather Enricher**
-Python CLI utility focused on structured log processing, data enrichment via external APIs, and export of clean, analysis-ready outputs.
-- Code: https://github.com/yairemartinez/Log-Parser-Weather-Enricher  
-- Project Write-Up: https://yairmartinezcybersecurityportfolio.com/?p=1034  
-
----
 
 ## Technical Focus Areas
 
 - IT Support & Systems Administration (Windows, Active Directory, Group Policy)
+- IT Support Workflows (ticket triage, RCA, documentation, validation)
 - Networking Fundamentals & Troubleshooting
 - Automation & Scripting (Python, Bash, PowerShell)
 - Security Monitoring & Detection Fundamentals
